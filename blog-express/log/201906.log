@@ -1,0 +1,2 @@
+::1 - - [13/Jun/2019:11:37:59 +0000] "GET /api/blog/detail?id=7 HTTP/1.0" 304 - "http://localhost:8080/detail.html?id=7" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
+::ffff:127.0.0.1 - - [13/Jun/2019:11:38:02 +0000] "GET /api/blog/detail?id=1 HTTP/1.0" 200 127 "http://localhost:8080/detail.html?id=1" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
